@@ -2,7 +2,7 @@
   
 🎓 **Técnica em Desenvolvimento de Sistemas | Graduando em Análise e Desenvolvimento de Sistemas**
 
-Ao longo da minha trajetória, desenvolvi habilidades técnicas em linguagens como C, C#, Python, além de experiência em desenvolvimento web com HTML, CSS, JavaScript, Bootstrap e Node.js. Também possuo conhecimentos em Banco de Dados, Engenharia de Software e Metodologias de Desenvolvimento. Busco aprimorar minhas habilidades continuamente e estou sempre aberta a novos desafios no mundo da tecnologia.
+Ao longo da minha trajetória, desenvolvi habilidades técnicas em linguagens como C, C#, Python e JavaScript, além de experiência em desenvolvimento web com HTML, CSS, Bootstrap e ambiente Node.js. Também possuo conhecimentos em Banco de Dados, Engenharia de Software e Metodologias de Desenvolvimento. Busco aprimorar minhas habilidades continuamente e estou sempre aberta a novos desafios no mundo da tecnologia.
 ---
 
 ## 👾 Tecnologias & Ferramentas  
