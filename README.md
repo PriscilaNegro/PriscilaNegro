@@ -10,14 +10,6 @@ Ao longo da minha trajetória, desenvolvi habilidades técnicas em linguagens co
 
 ---
 
-## 📊 Estatísticas  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriscilaNegro&show_icons=true&theme=dracula)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaNegro&layout=compact&theme=dracula)
-
-
----
-
 ✉️ **Contato:**  
 📧 Email: priscila.luzngr@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/priscila-luz-negro/)  
